@@ -13,7 +13,7 @@ More specifically, we developed 4 deep learning models...
 3) Age classification 👦👴. 
 4) Generation of virtual voices that pronounce a number (between 0 and 9) in English 🔢. 
 
-I present simplified code for the **sound generator model**, which I believe is the most interesting. Despite the limitations of our computational environment, we achieved good results. In fact, we were generally able to identify the numbers pronounced by the virtual voices. I created Jupyter Notebooks with summaries and comments so that we can understand our work.
+In this repository, I only present simplified code for the **sound generator model**, which I believe is the most interesting. Despite the limitations of our computational environment, we achieved good results. In fact, we were generally able to identify the numbers pronounced by the virtual voices. I created Jupyter Notebooks with summaries and comments so that we can understand our work.
 
 ## Content of the repository
 
