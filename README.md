@@ -47,7 +47,7 @@ $$\frac{1}{2} \sum_{i=1}^{d} \mu_i^2 + \sigma_i^2 - 1 - \log(\sigma_i^2)$$
 
 where $\mu_i^2$ and $\sigma_i^2$ are outputs of the encoder used to build the latent space.
 
-### 4 –  A *report_project_in_french.pdf* file ➗✖️
+### 4 –  A *report_project_in_french.pdf* file 📄
 
 This document is the report of the project, written is French. It describes more in detail...
 - Sound processing.
