@@ -56,4 +56,4 @@ This document is the report of the project, written is French. It describes more
 
 ## 📌 Note
 
-⚠️ It seems that the *generation.ipynb* Notebook can't run with a recent version of Tensorflow . However, it's working with the 2.10 version. 
+⚠️ It seems that the *generation.ipynb* Notebook can't run with a recent version of Tensorflow. However, it's working with the 2.10 version. 
