@@ -27,7 +27,7 @@ Before running this code, we need to download the [Audio MNIST](https://www.kagg
 
 In this Python file, we build a variational autoencoder (VAE) that generates virtual voices.
 - First, we load data from the *data* folder.
-- Then, we create our VAE and we train it with input data (mel spectrograms). As we want our latent space to follow a normal distribution, we need to define the Kullback-Leibler (KL) divergence.
+- Then, we create our VAE and we train it with input data (mel spectrograms). As we want our latent space to follow a normal distribution, we need to define the **Kullback-Leibler (KL) divergence**.
 - After the training phase of the model, we generate a vector following a standard normal distribution.
 - Finally, we denormalize the generated mel spectrogram and we transform it into an audio signal, which we can then listen to.
 
@@ -52,7 +52,7 @@ where $\mu_i^2$ and $\sigma_i^2$ are outputs of the encoder used to build the la
 This document is the report of the project, written is French. It describes more in detail...
 - Sound processing.
 - The classifaction models that we built.
-- The sound generator. In fact, we actually made a grid search to find the best combination of hyperparameters. We also experimented with different data preprocessing techniques (dimension of melspectrograms, normalization). Here, to keep it simple, I manually defined the hyperparameters without performing a grid search.
+- The sound generator. In fact, we actually made a **grid search** to find the best combination of hyperparameters. We also experimented with different data preprocessing techniques (dimension of melspectrograms, normalization). Here, to keep it simple, I manually defined the hyperparameters without performing a grid search.
 
 ## 📌 Note
 
