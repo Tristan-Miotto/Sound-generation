@@ -33,7 +33,7 @@ In this Python file, we build a variational autoencoder (VAE) that generates vir
 
 As a result, we get a virtual voice (it looks like a robot) saying a digit. Most of the time, we can recognize the number pronounced. We assume that, to obtain clearer sounds, we need to improve the quality of the mel spectrograms. In other terms, we must increase their dimension (width and height).
 
-### 3 –  A *mathematical_proof_KL_divergence.png* file ➗✖️
+### 3 –  A *mathematical_proof_KL_divergence.pdf* file ➗✖️
 
 KL divergence is a measure that quantifies how one probability distribution $P$ differs from a second $Q$. It is defined as followed :
 
